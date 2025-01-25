@@ -1,4 +1,4 @@
-# Flutter Mobil Şirket Panel Tasarım UI
+# Flutter Android Şirket Panel Tasarım UI
 
 A new Flutter project.
 
